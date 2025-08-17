@@ -2,3 +2,17 @@ p {
     background-color: cornsilk;
     color: darkblue;
 }
+
+#main-content {
+    background-color: lightgray;
+}
+
+.section-text {
+    font-size: 15px;
+    color: darkslategray;
+    text-align: justify;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
